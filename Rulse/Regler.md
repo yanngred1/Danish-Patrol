@@ -1,5 +1,5 @@
 # Regler
-Denne side indeholder alle regler på Brooklyn ERLC RP server
+Denne side indeholder alle regler på Danish Patrol ERLC RP server
 ## Generelle regler
 1. Alle regler her under gælder henover hele discord serveren
    1. Mobning
