@@ -1,0 +1,119 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "Bande regler",
+        "description": "**4.** Alle dise regler gælder for groupering op til og med karteler",
+        "color": null,
+        "fields": [
+          {
+            "name": "4.1. Underretning",
+            "value": "Alle bandeledere skal selv sørge for at nye bandemedlemmer er underettet om bande reglerne."
+          },
+          {
+            "name": "4.2. Ændring af banderegler",
+            "value": "er kan til hver en tid blive ændret på bandereglerne. Derfor skal du være opdateret. Læs dem gerne hver 2. - 3. dag."
+          },
+          {
+            "name": "3. Maksimum antal medlemmer",
+            "value": "En bande må maksimum bestå af 8 medlemmer i en gruppering.\n      Derudover skal banden altid være klar på at give en liste over pusher og medlemmer med mindre end et minuts varsel fra bande ansvarlig i så fald at man er ingame."
+          },
+          {
+            "name": "4.4. Bandestrikes",
+            "value": "Hver bande har ikke mere end 3 chancer. Dvs. modtager du en bande-strike fra en bandeansvarlig, har din bande kun 2 tilbage."
+          },
+          {
+            "name": "4.5. Opstart af bande",
+            "value": "For at opstarte en bande, skal du minimum være 4 medlemmer. 2 eller 3 medlemmer accepteres ikke."
+          },
+          {
+            "name": "4.6. Lukning af bande",
+            "value": "n bande kan til hver en tid blive lukket af en bande ansvarlig. Dog vil din bande også automatisk blive lukket, hvis i er inaktive, eller har under 4 aktive medlemmer (Her gælder pushers osv. ikke)"
+          },
+          {
+            "name": "4.7. Realitet og oprigtig",
+            "value": "Man skal være real og rigtig med sin karakter. Hvis du er en MC-gruppering, skal du ikke køre rundt i superbiler. Du skal forholde dig til den klasse bil, som passer til din gruppering, kartel, mafia eller gadebande."
+          },
+          {
+            "name": "4.8. Oprangering af bander",
+            "value": "Man kan godt gå fra at være gadebandemedlem til at være mafiamedlem. Men man kan ikke tilslutte sig en gadebande, hvis du tidligere har været i en mafia. Dog kan et rockermedlem godt gå til at være gadebandemedlem, og omvendt."
+          },
+          {
+            "name": "4.9. Hierarki af bander",
+            "value": "Gadebande -> Motorcykelgruppering -> Mafia -> Cartel"
+          }
+        ]
+      },
+      {
+        "title": "Bandekrigs Regler",
+        "description": "**5.**   Alle disse regler gælder i en bande krig",
+        "color": null,
+        "fields": [
+          {
+            "name": "5.1. Outfit under krig",
+            "value": "Alle i banden, som deltager i en bandekrig, skal have samme outfit på. Har i en kvinde, må i finde noget til hende, som ligner mændenes outfit så godt som muligt."
+          },
+          {
+            "name": "5.2 Alliancer",
+            "value": "Begge parter må gerne have alliancer, såfremt grundlaget giver mening."
+          },
+          {
+            "name": "5.3 Liv i bandekrig",
+            "value": "Hvert medlem har 1 liv i en bandekrig. Banden har i alt 3 liv/strikes. Taber man en bandekrig, mister banden derfor 1 liv/får en strike."
+          },
+          {
+            "name": "5.4 Bekræftning af drab",
+            "value": "For at bekræfte et drab i en bandekrig, skal der være videooptagelse på pågældne scenarie, som endte modpartens liv."
+          },
+          {
+            "name": "5.5 Alle skal kunne optage",
+            "value": "Det er et krav alle i banden, skal kunne optage krigen. Det gælder både i form af Kills, men også om de andre bruger game mechanics til at vinde"
+          },
+          {
+            "name": "5.6 Tilstedeværelse",
+            "value": "Alle bandemedlemmer, som deltager i en bandekrig, skal sidde i sit krigsrum på bande discorden. I dette rum, kræver vi alle er muted, så der ikke bliver snakket under bandekrigen. Er bandemedlemmerne ikke i sit krigsrum eller ikke er muted, vil man første gang blive påtalt. Sker det dog igen efter påtalelsen, vil man tabe krigen."
+          }
+        ]
+      },
+      {
+        "title": "Politi regeler",
+        "description": "**6.** Alle disse regler gælder for politiet",
+        "color": null,
+        "fields": [
+          {
+            "name": "6.1. Minder dødelige våben",
+            "value": "Man må bruge strømpistol/taser. \nless lethal shotgun"
+          },
+          {
+            "name": "6.2 Hvor mang skal man være",
+            "value": "Der skal mindst side 2 SWAT/HRT I en bil for de må køre på patrulje."
+          },
+          {
+            "name": "6.3 Radio",
+            "value": "Man må ikke snakke i munden på hinanden i radioen."
+          },
+          {
+            "name": "6.4 Hvem du skal køre med.",
+            "value": "Politi kadeter må ikke køre alene men må gerne køre med en anden kadet og højre rang i politiet."
+          },
+          {
+            "name": "6.5 Politi elev",
+            "value": "Politi Elever på ikke køre da de stadig er på skolebæken for at for oplæring i hvordan det skal gøre der arbejde."
+          },
+          {
+            "name": "6.6 Sproget",
+            "value": "så sproget skal holdes: hvordan man snakker til hindanden og til borgerne fordi at nu skal der holdes styr på dette fordi at vi gider ikke at blive fyret alle samme."
+          },
+          {
+            "name": "6.7 Håntere en borger",
+            "value": "Hvis der er en borger der har brug for hjælp så hjælper vi dem udafnset hvad fordi at hvis de faktisk har brug for hjælp så kan vi kun hjælpe dem hvis i fatisk tager kontakt til ham"
+          },
+          {
+            "name": "6.8 Kontakt til Beredskab og Sund",
+            "value": "Kontakt til Beredskab skal for gå gennem Lima eller Lima tango hvis disse ikke er på skal det for gå gennem højste rangsjert på scenne og med en pæn tone."
+          }
+        ]
+      }
+    ],
+    "attachments": []
+  }

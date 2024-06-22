@@ -1,0 +1,124 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "Verified",
+        "description": "Når du har læst reglerne skal du klikke på ✅ emoji nedenfor. Når du har gjort det får du en rolle som giver dig adgang til at kunne lave en karakter, hvor efter du kan begynde og lave Roleplay på denne server.\n\n(Du skal have en karakter på discorden før du får en borger rolle af en staff member)\n\n(Husk at dette er en engelsk tema server, så alt herinde er engelsk, men ikke snakke. Man snakker dansk.)",
+        "color": null
+      },
+      {
+        "title": "Generelle regler",
+        "description": "**1.** Alle regler her under gælder henover hele discord serveren",
+        "color": null,
+        "fields": [
+          {
+            "name": "1.1. Mobning",
+            "value": "Mobning er fuldstændig uacceptabelt, og vil blive straffet med delukkelse. Sjov samt ballade er tilladt, dog skal ingens personlige grænser overtrædes."
+          },
+          {
+            "name": "1.2. NSFW/ Not Safe For Work",
+            "value": "Not Safe For Work content er ikke tilladt i vores server. Bryder du reglen giver det permanent ban."
+          },
+          {
+            "name": "1.3. Racisme",
+            "value": "Racisme er på ingen måde tilladt. Bryder du reglen får du Ban i 48 timer og får 1x Advarsler."
+          },
+          {
+            "name": "1.4. Karakter",
+            "value": "**Skal** være skreven ind med ud fra skablonen i <#1251935990537519194>"
+          },
+          {
+            "name": "1.5. Ustabile karakterer",
+            "value": "Vi vil ikke se på kararkter som er psykisk ustabile"
+          }
+        ]
+      },
+      {
+        "title": "Roleplay Regler",
+        "description": "**2.** dette er alle Roleplay reglerne som gælder for alle spiller",
+        "color": null,
+        "fields": [
+          {
+            "name": "2.1 Våben Købe",
+            "value": "Alle våben **skal** købes af en Våben Handler\nhvem er våben handler:\n**igen lige nu**"
+          },
+          {
+            "name": "2.2. låste døre",
+            "value": "Døre der normal vil være låst med et nøgle kort kan man ikke bare vade ind af som hvis man ikke er på det hold som har nøgle der til"
+          },
+          {
+            "name": "2.3. Brandalarmer",
+            "value": "Der skal være en godt grundlag for at tække brandalarmer"
+          },
+          {
+            "name": "2.4. Økonomi",
+            "value": "Serveren har en økonomi det vil sige vi vil ikke have jer til at collect jeres løn uden for SSU det vil sige hvis der har været en SSU den dag og i har være på må i collect mens i er på og ikke når i ikke er på det samme gælder for work og rob det kraver at i er på og for rob kraver det at i er ved dem når i bruger den."
+          },
+          {
+            "name": "2.5. Våben man må ejere med våben licens",
+            "value": "Beretta M9, Colt M1911 og M14 vis du har købt disse du den våben licens er de ulovlige du må ikke ejer Skopoin, TEC-9 eller desert eagel da disse er bande våben"
+          },
+          {
+            "name": "2.7. New Life Rule (NLR)",
+            "value": "New Life Rule (NLR), skal overholdes uanset hvilken forbindelse døden af din karakter er har fundet sted. Dvs. sker der din karakter noget, som medføre bevidstløshed eller sågar drlb, husker din karakter ingenting. Du kender hverken til årsagen eller andet, som har ledt op til din bevidstløshed."
+          },
+          {
+            "name": "2.6. Metagaming",
+            "value": "Metagaming må under ingen omstændigheder benyttes. Dvs. der ikke må benyttes nogle former for ekstern kommunikation til at udføre RP in-game. Dette indebærer bl.a. programmer som Discord, twitch, teamspeak m.m."
+          },
+          {
+            "name": "2.8. FearRP",
+            "value": "FearRP skal altid overholdes. Dvs. din karakter altid sætter sit liv foran andres, da dette er første prioritet for din karakter. Derfor vil du så vidt som muligt, altid forsøge at overleve fremfor at dø. dette kan eksempelvis være, du ikke trækker et våben, hvis du allerede bliver truet af en anden. Reglen strækker sig over et bredt aspekt og gælder derfor ikke kun dette eksempel."
+          },
+          {
+            "name": "2.9. Powergaming",
+            "value": "Powergaming må under ingen omstændigheder finde sted. Du skal altid udføre så en så realistisk adfærd som muligt. Dermed sagt, skal du ikke lukke ned for RP scenarier, samt fremtidige RP scenarier, uden grund for dette."
+          },
+          {
+            "name": "2.10. RDM",
+            "value": "Random Death Match må ikke forekomme. Dvs. du ikke må dræbe en anden karakter uden RP grundlag. Dette gælder også NPC'er"
+          },
+          {
+            "name": "2.11. VDM",
+            "value": "Vehicle Death Match må sågar heller ikke forekomme. Du må ikke bruge dit køretøj til at forvolde skade på en anden karakter. Dette gælder både Motorcykler, Fly, Biler eller Fartøjer (Både osv.)"
+          },
+          {
+            "name": "2.12. Fail RP",
+            "value": "Fail RP vil sige når i gør noget som ikke vil kunne ladsige gøre i virkligheden eller at bryde reglerne på en måde som ikker er tænkt over i reglerne som det står nu"
+          }
+        ]
+      },
+      {
+        "title": "𝐑ø𝐯𝐞𝐫𝐢 & 𝐓𝐲𝐯𝐞𝐫𝐢 𝐫𝐞𝐠𝐥𝐞𝐫",
+        "description": "**3.** Alle regeler er under har noget af gøre med Røveriger eller tyveriger",
+        "color": null,
+        "fields": [
+          {
+            "name": "3.1. Antal butikstyve/røvere",
+            "value": "Der må maksimum være 3 kriminelle til et butikstyveri, og så skal der minimum være 2 betjente aktive."
+          },
+          {
+            "name": "3.2. Antal bankrøvere",
+            "value": "Der må maksimum være 5 kriminelle til et bankrøveri. Her skal der sågar være mindst 4 betjente aktive, før du må starte et bankrøveri."
+          },
+          {
+            "name": "3.3. Cooldown af tyveri & røveri",
+            "value": "Der skal gå mindst 2 time (En ingame dag) imellem hvert tyveri eller røveri. Nedtælling begynder fra alle er røget i fængslet, eller undsluppet."
+          },
+          {
+            "name": "3.4. Gidseltagning til tyverier/røverier",
+            "value": "Du må have så mange gidsler du vil, så længe det bliver holdt på et realistisk niveau. Dvs. du ikke kan have 3 gidsler, på en server med 20 spillere."
+          },
+          {
+            "name": "3.5. Forhandlingskrav",
+            "value": "Sørg for at have styr på jeres krav. De skal være gennemtænkte og rimelige overfor alle. Det gælder både for betjentenes side, og fra de kriminelles side."
+          },
+          {
+            "name": "3.6. Planlægning",
+            "value": "Et tyveri eller røveri skal planlægges inden det udføres. Det skal planlægges i så stort omfang, det går uden problemer. Der vil dog altid opstå problemer, da der kan forekomme fejl med kommunikationen osv. Men ellers skal det planlægges professionelt."
+          }
+        ]
+      }
+    ],
+    "attachments": []
+  }
